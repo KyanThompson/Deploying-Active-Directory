@@ -26,6 +26,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Client-1 was connected to the domain successfully, and I moved it into a new OU named _CLIENTS in Active Directory to keep things organized.
 
+<h2>Deployment and Configuration Steps</h2>
 
 
 
