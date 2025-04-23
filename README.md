@@ -19,6 +19,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
+
 - Active Directory Domain Services were installed on DC-1, and the server was promoted to a Domain Controller for the domain mydomain.com.
 
 - I created two Organizational Units (OUs) called _EMPLOYEES and _ADMINS. Then, I made a domain admin user named jane_admin and added her to the Domain Admins group.
